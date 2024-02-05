@@ -1,0 +1,1 @@
+Toorg é o integrante mais sábio do grupo de heróis denominado Os Protetores da Via Láctea. Para qualquer pergunta, ele tem a resposta ideal! Escreva um programa que, dada uma pergunta, informe a resposta de Toorg.
